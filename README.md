@@ -179,17 +179,17 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - [Ultralytics](https://ultralytics.com/) for the YOLO11 framework
 - [Roboflow](https://roboflow.com/) for the Laboro Tomato dataset
 - [Jalal's Lab](https://universe.roboflow.com/jalals-lab) for dataset curation
 
-## 📞 Contact
+##  Contact
 
 - **Author**: Dieudonne Fonyuy Y.
 - **Email**: Dieudonne.yufonyuy@gmail.com
