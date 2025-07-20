@@ -145,7 +145,7 @@ python src/train.py --resume tomato_segmentation/training_run/weights/last.pt
 ![Training Results](results/training_plots/results.png)
 
 ### Confusion Matrix
-![Confusion Matrix](results/training_plots/confusion_matrix.png)
+![Confusion Matrix](results/training_plots/confusion_matrix_normalized.png)
 
 ### Sample Predictions
 ![Sample Predictions](results/predictions/sample_grid.png)
