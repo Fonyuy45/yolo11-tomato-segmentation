@@ -8,11 +8,11 @@
 **High-performance instance segmentation for automated tomato ripeness classification using YOLO11**
 
 ## Applications
-- Robotic Harvesting**: Automated fruit picking systems
-- Yield Estimation**: Greenhouse monitoring and analytics
-- Sorting Systems**: Post-harvest quality control
-- Mobile Apps**: Farm management tools
-- Research**: Agricultural computer vision studies
+- Robotic Harvesting: Automated fruit picking systems
+- Yield Estimation: Greenhouse monitoring and analytics
+- Sorting Systems: Post-harvest quality control
+- Mobile Apps: Farm management tools
+- Research: Agricultural computer vision studies
 
 ![Demo Results](results/training_plots/val_batch0_pred.jpg)
 
