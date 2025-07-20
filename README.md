@@ -193,8 +193,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Author**: Dieudonne Fonyuy Y.
 - **Email**: Dieudonne.yufonyuy@gmail.com
-- **LinkedIn**: 
-- **Project Link**: 
+- **LinkedIn**: www.linkedin.com/in/dieudonne-yufonyuy
+- **Project Link**: https://github.com/Fonyuy45/yolo11-tomato-segmentation
 
 
 
