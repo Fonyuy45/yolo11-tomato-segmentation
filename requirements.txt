@@ -1,0 +1,58 @@
+# YOLO11 Tomato Segmentation Requirements
+# Compatible with Python 3.10+
+
+# Core ML Framework
+ultralytics>=8.3.168
+torch>=2.7.0
+torchvision>=0.22.0
+torchaudio>=2.7.0
+
+# Computer Vision
+opencv-python>=4.12.0
+pillow>=11.3.0
+
+# Data Processing
+numpy>=2.2.0
+pandas>=2.3.0
+scipy>=1.15.0
+
+# Visualization
+matplotlib>=3.10.0
+seaborn>=0.12.0
+
+# Configuration & Utils
+pyyaml>=6.0.0
+tqdm>=4.67.0
+psutil>=7.0.0
+
+# Image Processing
+albumentations>=1.4.0
+scikit-image>=0.22.0
+
+# Metrics & Evaluation
+scikit-learn>=1.4.0
+
+# Jupyter Notebooks (for analysis)
+jupyter>=1.0.0
+ipywidgets>=8.0.0
+
+# Export & Deployment
+onnx>=1.15.0
+onnxruntime>=1.17.0
+
+# Roboflow Integration (for dataset)
+roboflow>=1.1.0
+
+# Optional: Weights & Biases for experiment tracking
+# wandb>=0.16.0
+
+# Optional: TensorBoard for visualization
+# tensorboard>=2.15.0
+
+# Optional: Streamlit for web demos
+# streamlit>=1.30.0
+
+# Development Tools (optional)
+# pytest>=7.4.0
+# black>=23.0.0
+# flake8>=6.0.0

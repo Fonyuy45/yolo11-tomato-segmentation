@@ -1,0 +1,29 @@
+# YOLO11x-seg Tomato Segmentation Model
+
+## Model Information
+- Model: YOLOv11x-seg
+- Dataset: Laboro Tomato Dataset (v2)
+- Classes: 3 (fully_ripened, green, half_ripened)
+- Training Images: 2,001
+- Validation Images: 86
+- Training Epochs: 100
+- Batch Size: 4
+- Input Size: 640x640
+
+## Performance Metrics
+- Box mAP@0.5: 90.1%
+- Box mAP@0.5:0.95: 80.5%
+- Mask mAP@0.5: 89.8%
+- Mask mAP@0.5:0.95: 77.1%
+- Inference Speed: 28ms
+- Model Size: 124.8MB
+
+## Training Hardware
+- GPU: NVIDIA GeForce RTX 4060 Laptop GPU
+- Training Time: 4.8 hours
+- Peak GPU Memory: ~6GB
+
+## File Details
+- best.pt: Best performing model checkpoint
+- Trained: $(date)
+- Framework: Ultralytics YOLO11

@@ -1,0 +1,9 @@
+Training in CLI
+
+
+yolo segment train data=datasets/Laboro_Tomato/data.yaml model=yolo11x-seg.pt epochs=100 imgsz=640 device=0 project=tomato_seg name=experiment_1
+
+
+Watch GPU allocation during traing 
+
+watch -n 0.1 nvidia-smi
