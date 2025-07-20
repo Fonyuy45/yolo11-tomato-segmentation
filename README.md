@@ -7,7 +7,7 @@
 
 **High-performance instance segmentation for automated tomato ripeness classification using YOLO11**
 
-![Demo Results](results/demo_results.png)
+![Demo Results](results/training_plots/val_batch0_pred.jpg)
 
 ## Project Overview
 
