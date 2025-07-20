@@ -51,7 +51,7 @@ This project implements state-of-the-art instance segmentation for classifying t
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/yolo11-tomato-segmentation.git
+git clone https://github.com/Fonyuy45/yolo11-tomato-segmentation.git
 cd yolo11-tomato-segmentation
 ```
 
@@ -65,7 +65,7 @@ source venv/bin/activate
 3. **Download pre-trained model**
 ```bash
 # Download our trained model
-wget -O models/best.pt "https://github.com/yourusername/yolo11-tomato-segmentation/releases/download/v1.0/best.pt"
+wget -O models/best.pt "https://github.com/Fonyuy45/yolo11-tomato-segmentation/releases/download/v1.0/best.pt"
 ```
 
 ### Inference
