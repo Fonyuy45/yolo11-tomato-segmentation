@@ -170,7 +170,6 @@ python src/train.py --resume tomato_segmentation/training_run/weights/last.pt
 #### Validation Comparison
 ![Validation Labels](results/training_plots/val_batch0_labels.jpg)
 
-![Validation Predictions](results/training_plots/val_batch0_pred.jpg)
 
 
 ### Training Curves
