@@ -172,11 +172,6 @@ python src/train.py --resume tomato_segmentation/training_run/weights/last.pt
 
 
 
-### Training Curves
-![Training Results](results/training_plots/results.png)
-
-
-
 
 ## Hardware Requirements
 
