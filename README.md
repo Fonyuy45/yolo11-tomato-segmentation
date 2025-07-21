@@ -7,6 +7,10 @@
 
 **High-performance instance segmentation for automated tomato ripeness classification using YOLO11**
 
+## Project Overview
+
+This project implements state-of-the-art instance segmentation for classifying tomato ripeness stages using YOLO11. The model achieves **90.1% mAP@0.5** and **89.8% mask mAP@0.5** on the Laboro Tomato dataset, making it suitable for real-world agricultural applications.
+
 ## Applications
 - Robotic Harvesting: Automated fruit picking systems
 - Yield Estimation: Greenhouse monitoring and analytics
@@ -14,13 +18,12 @@
 - Mobile Apps: Farm management tools
 - Research: Agricultural computer vision studies
 
-![Sample Image](data/sample_images/tomato_sample_3.jpg)
+## Sample Prediction Results
 
 ![Demo Results](results/training_plots/val_batch0_pred.jpg)
 
-## Project Overview
-
-This project implements state-of-the-art instance segmentation for classifying tomato ripeness stages using YOLO11. The model achieves **90.1% mAP@0.5** and **89.8% mask mAP@0.5** on the Laboro Tomato dataset, making it suitable for real-world agricultural applications.
+## Sample Image
+![Sample Image](data/sample_images/tomato_sample_3.jpg)
 
 ### 🍅 Ripeness Classes
 - **🟢 Green**: Unripe tomatoes
