@@ -161,16 +161,9 @@ python src/train.py --resume tomato_segmentation/training_run/weights/last.pt
 ![Label Distribution](results/training_plots/labels.jpg)
 
 ### Sample Training Progress
-<details>
-<summary>View Training Batches and Validation Results</summary>
 
 #### Training Batches
 ![Training Batch](results/training_plots/train_batch0.jpg)
-
-#### Validation Comparison
-![Validation Labels](results/training_plots/val_batch0_labels.jpg)
-
-
 
 
 ## Hardware Requirements
