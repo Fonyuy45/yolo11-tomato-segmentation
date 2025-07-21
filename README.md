@@ -145,6 +145,30 @@ python src/train.py --resume tomato_segmentation/training_run/weights/last.pt
 
 ## Results Analysis
 
+### Training Performance Overview
+![Training Results](results/training_plots/results.png)
+
+### Model Accuracy Metrics
+![Confusion Matrix](results/training_plots/confusion_matrix.png)
+
+### Precision-Recall Analysis
+![Box Precision-Recall](results/training_plots/BoxPR_curve.png)
+![Mask Precision-Recall](results/training_plots/MaskPR_curve.png)
+
+### Dataset Analysis
+![Label Distribution](results/training_plots/labels.jpg)
+
+### Sample Training Progress
+<details>
+<summary>View Training Batches and Validation Results</summary>
+
+#### Training Batches
+![Training Batch](results/training_plots/train_batch0.jpg)
+
+#### Validation Comparison
+![Validation Labels](results/training_plots/val_batch0_labels.jpg)
+![Validation Predictions](results/training_plots/val_batch0_pred.jpg)
+
 
 ### Training Curves
 ![Training Results](results/training_plots/results.png)
