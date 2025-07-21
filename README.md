@@ -14,6 +14,8 @@
 - Mobile Apps: Farm management tools
 - Research: Agricultural computer vision studies
 
+![Sample Image](data/sample_images/tomato_sample_3.jpg)
+
 ![Demo Results](results/training_plots/val_batch0_pred.jpg)
 
 ## Project Overview
