@@ -149,10 +149,12 @@ python src/train.py --resume tomato_segmentation/training_run/weights/last.pt
 ![Training Results](results/training_plots/results.png)
 
 ### Model Accuracy Metrics
-![Confusion Matrix](results/training_plots/confusion_matrix.png)
+### Confusion Matrix
+![Confusion Matrix](results/training_plots/confusion_matrix_normalized.png)
 
 ### Precision-Recall Analysis
 ![Box Precision-Recall](results/training_plots/BoxPR_curve.png)
+
 ![Mask Precision-Recall](results/training_plots/MaskPR_curve.png)
 
 ### Dataset Analysis
@@ -167,17 +169,15 @@ python src/train.py --resume tomato_segmentation/training_run/weights/last.pt
 
 #### Validation Comparison
 ![Validation Labels](results/training_plots/val_batch0_labels.jpg)
+
 ![Validation Predictions](results/training_plots/val_batch0_pred.jpg)
 
 
 ### Training Curves
 ![Training Results](results/training_plots/results.png)
 
-### Confusion Matrix
-![Confusion Matrix](results/training_plots/confusion_matrix_normalized.png)
 
-### Sample Predictions
-![Sample Predictions](results/predictions/sample_grid.png)
+
 
 ## Hardware Requirements
 
